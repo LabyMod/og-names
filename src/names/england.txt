@@ -60,10 +60,8 @@ Angus
 Anil
 Anita
 Ann
-Ann
 Anna
 Annabel
-Anne
 Anne
 Annette
 Annie
@@ -852,7 +850,6 @@ Sandra
 Sandy
 Sanjay
 Sara
-Sarah
 Sarah
 Sasha
 Scott

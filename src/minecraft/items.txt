@@ -150,10 +150,10 @@ Stone
 Stray
 Sunflower
 Sword
+TNT
 Tag
 Tallgrass
 Terracotta
-TNT
 Torch
 Trapdoor
 Tripwire

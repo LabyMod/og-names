@@ -3,7 +3,6 @@ Antelope
 Ape
 Bison
 Deer
-Deer
 Doge
 Dolphin
 Duck
