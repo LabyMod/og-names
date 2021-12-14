@@ -3,7 +3,6 @@ Apricot
 Avocado
 Banana
 Blackberry
-Blackcurrant
 Blueberry
 Cantaloupe
 Cherry
@@ -14,7 +13,6 @@ Currant
 Date
 Dragonfruit
 Durian
-Elderberries
 Fig
 Grape
 Grapefruit
@@ -34,9 +32,8 @@ Pineapple
 Plum
 Pomegranate
 Pummelo
-Quince
 Raspberry
 Rhubarb
 Strawberry
 Tangerine
-WatermelonWatermelon
+Watermelon
