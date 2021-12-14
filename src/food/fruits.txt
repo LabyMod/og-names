@@ -11,7 +11,6 @@ Lemon
 Lychee
 Mango
 Papaya
-Passion fruit
 Peach
 Pear
 Plum

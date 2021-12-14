@@ -39,7 +39,6 @@ Andreas
 Andree
 Andrej
 Andrew
-André
 Andy
 Anett
 Anette
@@ -114,7 +113,6 @@ Birgit
 Birgitt
 Birgitta
 Birte
-Björn
 Bodo
 Boris
 Brigitta
@@ -126,7 +124,6 @@ Brunhilde
 Bruno
 Burghard
 Burkhard
-Bärbel
 Carina
 Carl
 Carla
@@ -164,8 +161,6 @@ Corina
 Corinna
 Cornelia
 Cornelius
-Cäcilia
-Cäcilie
 Dagmar
 Dana
 Daniel
@@ -198,7 +193,6 @@ Dorit
 Dorothea
 Dorothee
 Dunja
-Dörte
 Eberhard
 Eckard
 Eckart
@@ -340,9 +334,6 @@ Gunnar
 Gunter
 Gunther
 Gustav
-Götz
-Günter
-Günther
 Hagen
 Halina
 Hanna
@@ -353,7 +344,6 @@ Hannes
 Hanni
 Hanno
 Hans
-Hansjörg
 Hanspeter
 Harald
 Hardy
@@ -414,7 +404,6 @@ Horst
 Hubert
 Hubertus
 Hugo
-Hüseyin
 Ibrahim
 Ida
 Igor
@@ -497,9 +486,6 @@ Julius
 Jun
 Juri
 Jutta
-Jörg
-Jörn
-Jürgen
 Kai
 Karen
 Karin
@@ -540,8 +526,6 @@ Kristine
 Kunigunde
 Kuno
 Kurt
-Käte
-Käthe
 Larissa
 Lars
 Laura
@@ -750,7 +734,6 @@ Reinhold
 Renata
 Renate
 Rene
-René
 Resi
 Ria
 Ricarda
@@ -782,7 +765,6 @@ Rudi
 Rudolf
 Rupert
 Ruth
-Rüdiger
 Sabina
 Sabine
 Sabrina
@@ -843,8 +825,6 @@ Swetlana
 Sybille
 Sylke
 Sylvia
-Sönke
-Sören
 Tamara
 Tanja
 Tatjana
@@ -935,4 +915,3 @@ Xaver
 Yilmaz
 Yusuf
 Yvonne
-ZitaÄnne
