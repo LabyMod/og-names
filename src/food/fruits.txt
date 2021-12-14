@@ -1,8 +1,10 @@
+Apple
 Apricot
 Avocado
 Banana
 Blueberry
 Coconut
+Currant
 Fig
 Grape
 Guava
@@ -10,10 +12,12 @@ Kiwi
 Lemon
 Lychee
 Mango
+Orange
 Papaya
 Passion fruit
 Peach
 Pear
+Pineapple
 Plum
 Pomegranate
 Raspberry
