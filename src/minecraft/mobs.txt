@@ -5,9 +5,9 @@ Blaze
 Cat
 Cavespider
 Chicken
+Clownfish
 Cod
 Cow
-Clownfish
 Creeper
 Dolphin
 Donkey
@@ -32,8 +32,8 @@ Magmacube
 Mule
 Ocelot
 Panda
-Phantom
 Parrot
+Phantom
 Pig
 Piglin
 Pigman
