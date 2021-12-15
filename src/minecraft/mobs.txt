@@ -18,6 +18,7 @@ Enderman
 Endermite
 Evoker
 Fox
+Frog
 Ghast
 Goat
 Guardian
