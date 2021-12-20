@@ -30,6 +30,7 @@ airline
 airport
 alarm
 alcohol
+allergy
 alternative
 ambition
 amount
@@ -130,6 +131,7 @@ blue
 board
 boat
 body
+bolt
 bone
 bonus
 book
@@ -155,6 +157,7 @@ broad
 brother
 brown
 brush
+bud
 budget
 bug
 building
@@ -178,6 +181,7 @@ cancel
 cancer
 candidate
 candle
+cannabis
 cap
 capital
 car
@@ -646,6 +650,7 @@ inspector
 instance
 instruction
 insurance
+intent
 intention
 interaction
 interest
@@ -805,6 +810,7 @@ movie
 mud
 muscle
 music
+muslim
 name
 nasty
 nation
@@ -1143,6 +1149,7 @@ shape
 share
 she
 shelter
+shield
 shift
 shine
 ship
@@ -1272,6 +1279,7 @@ swim
 swimming
 swing
 switch
+sword
 sympathy
 system
 table
