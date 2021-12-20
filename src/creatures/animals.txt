@@ -7,9 +7,9 @@ Baboon
 Badger
 Bandicoot
 Bear
+Beefalo
 Bird
 Bison
-Beefalo
 Blobfish
 Bonobo
 Buffalo
@@ -95,8 +95,8 @@ Megalodon
 Mink
 Mole
 Monkey
-Moth
 Moose
+Moth
 Mouse
 Narwhal
 Ocelot
@@ -135,8 +135,8 @@ Scorpion
 Seahorse
 Seal
 Serval
-Sheep
 Shark
+Sheep
 Shibainu
 Shrimp
 Sloth
@@ -144,7 +144,6 @@ Slug
 Snail
 Snake
 Sparrow
-Squirrel
 Squirrel
 Stork
 Swan
