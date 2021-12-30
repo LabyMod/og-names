@@ -9,7 +9,6 @@ Mette
 Jan
 Niels
 Helle
-Søren
 Hanne
 Jesper
 Hans
@@ -21,7 +20,6 @@ Ole
 Kim
 Lene
 Susanne
-Jørgen
 Anders
 Christian
 Erik
@@ -118,7 +116,6 @@ Julie
 Tommy
 Henriette
 Andreas
-Jørn
 Jeanette
 Nina
 Johnny
@@ -207,7 +204,6 @@ Vivi
 Mark
 Johannes
 Janni
-Bjørn
 Egon
 Ivan
 Mie
@@ -497,7 +493,6 @@ Isabella
 Brita
 Kennet
 Kathe
-Søs
 Benedikte
 Liv
 Tue
@@ -513,5 +508,4 @@ Kaare
 Dorit
 Sonny
 Johnni
-Asbjørn
 Laurits
