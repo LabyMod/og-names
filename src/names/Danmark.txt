@@ -331,7 +331,6 @@ Ali
 Willy
 Jack
 Jenny
-Maibritt
 Mary
 Jim
 Ronni
@@ -399,7 +398,6 @@ Hugo
 Joachim
 Frode
 Lissy
-Dagny
 Christopher
 Stephanie
 Martha
