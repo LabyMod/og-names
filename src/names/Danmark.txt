@@ -69,7 +69,6 @@ Kenneth
 Lisbeth
 Karin
 Knud
-Bo
 Mogens
 Dorte
 Birthe
@@ -141,7 +140,6 @@ Mia
 Carl
 Ida
 Laila
-Ib
 Ditte
 Kjeld
 Aase
@@ -238,7 +236,6 @@ Alexander
 Solveig
 Tobias
 Tonny
-Majbritt
 Villy
 Esben
 Conny
@@ -289,7 +286,6 @@ Leo
 Helga
 Doris
 Viggo
-Maj-Britt
 Lilly
 Jimmy
 Kirstine
@@ -319,8 +315,6 @@ Jeanne
 Peer
 Anny
 Nicklas
-Sren
-Lise-lotte
 Mohammad
 Conni
 Rolf
@@ -348,7 +342,7 @@ Lykke
 Axel
 Kenn
 Eigil
-Majbrit
+brit
 Sine
 Marc
 Hanna
@@ -453,7 +447,6 @@ Solvej
 Kamma
 Ulrich
 Victor
-Paw
 Maj
 Josephine
 Annalise
@@ -461,7 +454,6 @@ Olav
 Herluf
 Nadja
 Vicki
-Yrsa
 Benthe
 Jean
 Kenny
@@ -476,8 +468,6 @@ Stephan
 Frida
 Therese
 Mustafa
-Thi
-Jrgen
 Karoline
 Nis
 Merethe
@@ -493,7 +483,6 @@ Kennet
 Kathe
 Benedikte
 Liv
-Tue
 Julia
 Ahmad
 June
