@@ -381,7 +381,6 @@ Kevin
 Ebba
 Heine
 Christel
-Åse
 Edel
 Ejner
 Glenn
@@ -450,13 +449,12 @@ Anker
 Alfred
 Elise
 Jonathan
-Solvejg
+Solvej
 Kamma
 Ulrich
 Victor
 Paw
 Maj
-Kåre
 Josephine
 Annalise
 Olav
