@@ -22,7 +22,6 @@ Lemon
 Lychee
 Mandarin
 Mango
-Moci
 Nectarine
 Olive
 Orange
