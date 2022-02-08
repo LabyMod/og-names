@@ -19,6 +19,7 @@ Grapefruit
 Guava
 Kiwi
 Lemon
+Lime
 Lychee
 Mandarin
 Mango
