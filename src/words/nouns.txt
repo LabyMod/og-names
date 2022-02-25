@@ -400,6 +400,7 @@ driver
 drop
 drunk
 due
+duel
 dump
 dust
 duty
@@ -458,6 +459,7 @@ excitement
 excuse
 exercise
 exit
+exodus
 experience
 expert
 explanation
@@ -526,6 +528,7 @@ friendship
 front
 fruit
 fuel
+fume
 fun
 function
 funeral
@@ -643,6 +646,7 @@ industry
 inevitable
 inflation
 influence
+influx
 information
 initial
 initiative
@@ -694,6 +698,7 @@ ladder
 land
 landscape
 language
+lapse
 laugh
 law
 lawyer
@@ -998,7 +1003,9 @@ proof
 property
 proposal
 protection
+psycho
 psychology
+psychopath
 public
 pull
 punch
@@ -1364,6 +1371,7 @@ truth
 try
 tune
 turn
+twerk
 twist
 two
 type
