@@ -1194,6 +1194,7 @@ size
 skill
 skin
 skirt
+slander
 sleep
 slice
 slide
