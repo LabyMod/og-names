@@ -420,6 +420,7 @@ egg
 election
 elevator
 emergency
+emo
 emotion
 emphasis
 employ
