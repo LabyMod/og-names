@@ -189,6 +189,7 @@ car
 card
 care
 career
+carnage
 carpet
 cat
 catch
