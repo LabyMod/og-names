@@ -125,6 +125,8 @@ concede
 conceive
 conclude
 condemn
+condense
+condone
 conduct
 confer
 confess
@@ -303,6 +305,7 @@ identify
 ignore
 illustrate
 imagine
+impale
 imply
 import
 impose
