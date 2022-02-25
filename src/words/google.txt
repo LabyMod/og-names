@@ -2575,6 +2575,7 @@ dining
 dinner
 dip
 diploma
+diplomatic
 dir
 direct
 directed
@@ -7968,6 +7969,7 @@ sensors
 sent
 sentence
 sentences
+sentimental
 seo
 sep
 separate
