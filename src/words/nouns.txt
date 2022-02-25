@@ -361,6 +361,8 @@ difficulty
 dig
 dimension
 dinner
+diplomacy
+diplomat
 direction
 director
 dirt
