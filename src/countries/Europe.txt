@@ -39,4 +39,5 @@ Slovenia
 Spain
 Sweden
 Switzerland
-UKUkraine
+UK
+Ukraine
