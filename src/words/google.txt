@@ -2575,7 +2575,6 @@ dining
 dinner
 dip
 diploma
-diplomatic
 dir
 direct
 directed
@@ -3030,7 +3029,6 @@ enormous
 enough
 enquiries
 enquiry
-enraged
 enrolled
 enrollment
 ensemble
@@ -3965,7 +3963,6 @@ growing
 grown
 grows
 growth
-grumpy
 gs
 gsm
 gst
@@ -7971,7 +7968,6 @@ sensors
 sent
 sentence
 sentences
-sentimental
 seo
 sep
 separate
@@ -8198,7 +8194,6 @@ sleep
 sleeping
 sleeps
 sleeve
-slender
 slide
 slides
 slideshow
