@@ -7,7 +7,6 @@ creative
 crouch
 drops
 grief
-griefing
 mine
 mineman
 modded
