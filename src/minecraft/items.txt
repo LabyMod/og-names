@@ -62,6 +62,7 @@ Hopper
 Husk
 Ingot
 Jukebox
+Kelp
 Lantern
 Lava
 Lazuli
