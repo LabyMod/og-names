@@ -543,6 +543,7 @@ give
 glad
 glass
 glove
+glyph
 go
 goal
 god
