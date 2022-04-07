@@ -165,7 +165,6 @@ Sunflower
 Sword
 TNT
 Tag
-Tallgrass
 Terracotta
 Torch
 Trapdoor
