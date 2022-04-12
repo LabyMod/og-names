@@ -71,6 +71,7 @@ beware
 bind
 blend
 bless
+blurt
 boil
 boost
 borrow
@@ -124,6 +125,8 @@ concede
 conceive
 conclude
 condemn
+condense
+condone
 conduct
 confer
 confess
@@ -236,6 +239,7 @@ engage
 enhance
 enjoy
 enquire
+enrage
 ensure
 entail
 enter
@@ -302,6 +306,7 @@ identify
 ignore
 illustrate
 imagine
+impale
 imply
 import
 impose
