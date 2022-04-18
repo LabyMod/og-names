@@ -5,9 +5,7 @@ Arkansas
 California
 Carolina
 Colorado
-Connecticut
 Dakota
-Delaware
 Florida
 Georgia
 Hampshire
@@ -23,6 +21,7 @@ Louisiana
 Maine
 Maryland
 Massachusetts
+MexicoCity
 Michigan
 Minnesota
 Mississippi
@@ -36,6 +35,9 @@ Oklahoma
 Oregon
 Pennsylvania
 Rhodeisland
+Sinaloa
+Sonora
+Tabasco
 Tennessee
 Texas
 Utah
@@ -43,4 +45,3 @@ Vermont
 Virginia
 Washington
 Wisconsin
-Wyoming
