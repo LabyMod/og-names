@@ -9,7 +9,6 @@ Billiards
 Bobsleigh
 Bowling
 Boxing
-Canoeing
 Checkers
 Chess
 Climbing
