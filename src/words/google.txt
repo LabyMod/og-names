@@ -3330,6 +3330,7 @@ fancy
 fans
 fantastic
 fantasy
+fantasize
 faq
 faqs
 far
@@ -9452,6 +9453,7 @@ varied
 varies
 varieties
 variety
+vandalize
 various
 vary
 varying
