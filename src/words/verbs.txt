@@ -486,6 +486,7 @@ rid
 safeguard
 satisfy
 say
+scare
 scream
 seal
 secure
