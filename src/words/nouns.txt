@@ -146,6 +146,7 @@ bottom
 bowl
 box
 boyfriend
+brace
 braille
 brave
 bread
