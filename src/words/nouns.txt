@@ -176,7 +176,8 @@ buyer
 cabinet
 cable
 cake
-calamitycalendar
+calamity
+calendar
 call
 calm
 camera
