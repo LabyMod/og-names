@@ -145,12 +145,14 @@ bottom
 bowl
 box
 boyfriend
+braille
 brave
 bread
 break
 breakfast
 breast
 breath
+bribery
 bridge
 brief
 brilliant
@@ -412,6 +414,7 @@ earth
 ease
 east
 eat
+eccentric
 economics
 economy
 edge
@@ -881,6 +884,7 @@ owner
 pace
 pack
 package
+pail
 pain
 paint
 painting
@@ -943,6 +947,7 @@ plant
 plastic
 plate
 platform
+platter
 play
 player
 pleasure
@@ -1177,6 +1182,7 @@ shot
 shoulder
 show
 shower
+shutdown
 sick
 side
 sign
@@ -1251,6 +1257,7 @@ steal
 step
 stick
 still
+sting
 stock
 stomach
 stop
@@ -1369,6 +1376,7 @@ tree
 trick
 trip
 trouble
+truce
 truck
 trust
 truth
