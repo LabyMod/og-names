@@ -78,6 +78,7 @@ borrow
 bounce
 breathe
 breed
+bribe
 bring
 broadcast
 build
@@ -511,6 +512,7 @@ spill
 spin
 spoil
 squeeze
+stale
 stare
 steer
 stimulate
@@ -581,6 +583,7 @@ widen
 wipe
 withdraw
 withstand
+woke
 would
 write
 yield
