@@ -31,6 +31,7 @@ airport
 alarm
 alcohol
 allergy
+ally
 alternative
 ambition
 amount
@@ -983,6 +984,7 @@ presentation
 president
 press
 pressure
+prey
 pride
 priest
 primary
@@ -1246,6 +1248,7 @@ staff
 stage
 stand
 standard
+staple
 start
 state
 statement
