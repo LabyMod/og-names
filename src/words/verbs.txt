@@ -490,6 +490,7 @@ seal
 secure
 seek
 seem
+seep
 seize
 select
 send
@@ -519,6 +520,7 @@ stimulate
 stir
 strengthen
 strive
+stumble
 submit
 subscribe
 substitute
@@ -557,6 +559,7 @@ transform
 translate
 transport
 trap
+tumble
 undergo
 undermine
 understand
@@ -578,6 +581,7 @@ warrant
 waste
 weaken
 wed
+weep
 weigh
 widen
 wipe
