@@ -176,8 +176,7 @@ buyer
 cabinet
 cable
 cake
-calamity
-calendar
+calamitycalendar
 call
 calm
 camera
@@ -532,6 +531,7 @@ form
 formal
 foundation
 frame
+freak
 friend
 friendship
 front
@@ -943,6 +943,7 @@ piece
 pin
 pipe
 pitch
+pity
 pizza
 place
 plan
@@ -1136,6 +1137,7 @@ satisfaction
 save
 savings
 scale
+scar
 scene
 schedule
 scheme
