@@ -73,6 +73,7 @@ bind
 blend
 bless
 blurt
+blush
 boil
 boost
 borrow
@@ -159,6 +160,7 @@ correspond
 create
 creep
 criticise
+crush
 curb
 cure
 damn
