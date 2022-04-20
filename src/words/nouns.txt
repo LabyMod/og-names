@@ -319,6 +319,7 @@ criticism
 cross
 crumb
 crumble
+crust
 cry
 culture
 cup
