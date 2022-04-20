@@ -597,11 +597,3 @@ woke
 would
 write
 yield
-widen
-wipe
-withdraw
-withstand
-woke
-would
-write
-yield
