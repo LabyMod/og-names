@@ -226,6 +226,7 @@ church
 cigarette
 city
 claim
+clash
 class
 classic
 classroom
@@ -245,6 +246,7 @@ coat
 code
 coffee
 cold
+collage
 collar
 collection
 college
@@ -895,6 +897,7 @@ painting
 pair
 panic
 paper
+paradox
 pardon
 parent
 park
@@ -1156,6 +1159,7 @@ secretary
 section
 sector
 security
+seesaw
 selection
 self
 sell
@@ -1244,6 +1248,7 @@ spend
 spirit
 spiritual
 spite
+splash
 split
 sport
 spot
@@ -1479,4 +1484,5 @@ yellow
 yesterday
 you
 youth
+zest
 zone
