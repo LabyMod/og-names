@@ -58,6 +58,7 @@ attract
 attribute
 avoid
 await
+awake
 ban
 bang
 banish
@@ -588,6 +589,14 @@ weaken
 wed
 weep
 weigh
+widen
+wipe
+withdraw
+withstand
+woke
+would
+write
+yield
 widen
 wipe
 withdraw
