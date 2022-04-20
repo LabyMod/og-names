@@ -1,3 +1,4 @@
+Allay
 Axolotl
 Bat
 Bee
@@ -31,6 +32,7 @@ Irongolem
 Lama
 Magmacube
 Mule
+NPC
 Ocelot
 Panda
 Parrot
@@ -42,7 +44,7 @@ Pillager
 Polarbear
 Pufferfish
 Rabbit
-Ravenger
+Ravager
 Salmon
 Sheep
 Shulker
@@ -54,10 +56,12 @@ Spider
 Squid
 Stray
 Strider
+Tadpole
 Trurtle
 Vex
 Villager
 Vindicator
+Warden
 Witch
 Wither
 Witherskeleton
