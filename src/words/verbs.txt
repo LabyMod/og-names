@@ -515,6 +515,7 @@ spill
 spin
 spoil
 squeeze
+stain
 stale
 stare
 steer
