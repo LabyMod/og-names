@@ -1170,6 +1170,7 @@ senior
 sense
 sensitive
 sentence
+sentiment
 series
 serve
 service
