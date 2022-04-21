@@ -278,8 +278,10 @@ favour
 fetch
 find
 fit
+flap
 flee
 float
+flop
 flourish
 follow
 fool
