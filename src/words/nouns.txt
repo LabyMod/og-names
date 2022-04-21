@@ -126,6 +126,7 @@ black
 blame
 blank
 blind
+bliss
 block
 blood
 blow
@@ -1252,6 +1253,7 @@ spiritual
 spite
 splash
 split
+spook
 sport
 spot
 spray
