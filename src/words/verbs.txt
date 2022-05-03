@@ -521,6 +521,7 @@ shout
 shut
 sit
 slow
+smash
 snap
 soften
 solve
