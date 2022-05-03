@@ -10,7 +10,8 @@ mutant
 sentimental
 slender
 solitary
-toughvivid
+tough
+vivid
 wealthy
 yum
 yummy
