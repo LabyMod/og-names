@@ -226,6 +226,7 @@ dwell
 earn
 edit
 educate
+elapse
 elect
 eliminate
 embark
