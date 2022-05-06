@@ -32,6 +32,7 @@ Karate
 Kart
 Kayak
 Lacrosse
+Lifting
 Luge
 Marathon
 Netball
@@ -39,7 +40,6 @@ Padel
 Pelota
 Poker
 Polo
-Powerlifting
 Rowing
 Rugby
 Running
