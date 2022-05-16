@@ -173,6 +173,7 @@ decrease
 defeat
 defend
 define
+deform
 delete
 deliver
 demonstrate
@@ -225,6 +226,7 @@ dwell
 earn
 edit
 educate
+elapse
 elect
 eliminate
 embark
@@ -275,6 +277,7 @@ extract
 facilitate
 fade
 favour
+ferment
 fetch
 find
 fit
@@ -308,6 +311,7 @@ have
 heal
 hear
 hesitate
+hitch
 honour
 identify
 ignore
@@ -319,6 +323,7 @@ import
 impose
 improve
 in
+incline
 include
 incorporate
 indicate
@@ -348,6 +353,8 @@ invest
 investigate
 involve
 isolate
+jiggle
+juggle
 justify
 knit
 knock
@@ -358,6 +365,7 @@ leap
 learn
 lend
 like
+limp
 live
 locate
 lose
@@ -408,6 +416,7 @@ persuade
 plead
 please
 plug
+pollute
 pose
 possess
 postpone
@@ -488,6 +497,7 @@ revert
 revise
 revive
 rid
+roam
 safeguard
 satisfy
 say
@@ -503,6 +513,7 @@ select
 send
 separate
 settle
+sew
 shall
 shed
 should
@@ -510,6 +521,7 @@ shout
 shut
 sit
 slow
+smash
 snap
 soften
 solve
@@ -529,6 +541,7 @@ stir
 strengthen
 strive
 stumble
+stun
 submit
 subscribe
 substitute
@@ -568,6 +581,7 @@ transform
 translate
 transport
 trap
+tuck
 tumble
 undergo
 undermine
@@ -589,6 +603,7 @@ warn
 warrant
 waste
 weaken
+weave
 wed
 weep
 weigh
