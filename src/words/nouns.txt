@@ -254,6 +254,7 @@ collage
 collar
 collection
 college
+colouration
 combination
 combine
 comfortable
