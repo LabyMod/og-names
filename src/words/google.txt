@@ -1759,6 +1759,7 @@ colored
 colors
 colour
 colours
+colouration
 columbia
 columbus
 column
