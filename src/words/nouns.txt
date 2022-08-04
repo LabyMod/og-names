@@ -704,6 +704,7 @@ joke
 judgment
 juice
 jump
+kahppa
 keep
 key
 kick
