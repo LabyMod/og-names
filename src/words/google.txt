@@ -4512,6 +4512,8 @@ initially
 initiated
 initiative
 initiatives
+initialised
+initialized
 injection
 injured
 injuries
