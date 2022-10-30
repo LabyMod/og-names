@@ -1241,6 +1241,7 @@ sleep
 slice
 slide
 slip
+sleight
 smell
 smile
 smoke
