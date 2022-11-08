@@ -519,6 +519,7 @@ shed
 should
 shout
 shut
+shear
 sit
 slow
 smash
