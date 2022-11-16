@@ -7375,6 +7375,7 @@ rehabilitation
 reid
 reject
 rejected
+reking
 relate
 related
 relates
@@ -7630,7 +7631,6 @@ river
 rivers
 riverside
 rj
-reking
 rl
 rm
 rn
