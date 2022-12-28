@@ -207,7 +207,7 @@ cause
 celebration
 cell
 chain
-Chainlet
+chainlet
 chair
 challenge
 champion
