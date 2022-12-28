@@ -1,4 +1,4 @@
-Antispastic
+antispastic
 colorblind
 diplomatic
 eerie
