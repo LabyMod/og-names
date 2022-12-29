@@ -626,6 +626,7 @@ hire
 historian
 history
 hit
+hoar
 hold
 hole
 holiday
