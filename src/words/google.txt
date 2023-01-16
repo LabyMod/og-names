@@ -5386,6 +5386,7 @@ mandate
 mandatory
 manga
 manhattan
+maniac
 manitoba
 manner
 manor
@@ -5445,7 +5446,6 @@ martin
 marvel
 mary
 maryland
-maniac
 mas
 mask
 mason
