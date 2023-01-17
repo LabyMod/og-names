@@ -6,6 +6,7 @@ grumpy
 immense
 intricate
 livid
+materialistic
 mutant
 outrageous
 sentimental
@@ -16,4 +17,3 @@ vivid
 wealthy
 yum
 yummy
-materialistic
