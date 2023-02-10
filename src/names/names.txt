@@ -456,7 +456,6 @@ Bodil
 Bodo
 Bogdan
 Bon
-Boner
 Bonita
 Bonnie
 Boris
@@ -637,7 +636,6 @@ Clifford
 Clifton
 Clint
 Clinton
-Clitus
 Clive
 Clovis
 Clyde
@@ -1819,7 +1817,6 @@ Liam
 Liana
 Liane
 Lianne
-Libby
 Liddy
 Lidia
 Lidiya
@@ -1964,7 +1961,6 @@ Mack
 MacKenzie
 Maddie
 Maddison
-Maddog
 Madeleine
 Madelina
 Madeline
@@ -2461,7 +2457,6 @@ Penny
 Per
 Percival
 Percy
-Peregrine
 Pernille
 Perry
 Pete
@@ -2911,7 +2906,6 @@ Steffen
 Steffi
 Stefie
 Stella
-Stellaluna
 Sten
 Stepan
 Steph
@@ -3057,7 +3051,6 @@ Tina
 Tine
 Tinna
 Tino
-Titi
 Tobias
 Toby
 Todd
@@ -3096,7 +3089,6 @@ Trina
 Trine
 Trinity
 Tris
-Triscuit
 Trish
 Trisha
 Tristan
