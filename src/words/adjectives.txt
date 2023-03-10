@@ -17,3 +17,4 @@ vivid
 wealthy
 yum
 yummy
+aesthetic
