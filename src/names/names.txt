@@ -1,5 +1,4 @@
 Aaron
-Abbe
 Abbey
 Abbie
 Abby
@@ -32,7 +31,6 @@ Aelita
 Afanasiy
 Agata
 Agathe
-Aggie
 Agnes
 Agnete
 Agnieszka
@@ -163,7 +161,6 @@ Anatoli
 Anatolij
 Anatoliy
 Anatoly
-Ander
 Anders
 Andre
 Andrea
@@ -356,8 +353,6 @@ Balbir
 Barb
 Barbara
 Barbie
-Barby
-Barnaby
 Barney
 Barrie
 Barry
@@ -377,7 +372,6 @@ Beatrix
 Beatriz
 Bec
 Becca
-Becks
 Becky
 Belinda
 Bella
@@ -407,7 +401,6 @@ Bert
 Berta
 Bertha
 Berthold
-Bertie
 Bertram
 Beryl
 Beslan
@@ -419,7 +412,6 @@ Bethan
 Bethany
 Betina
 Betsy
-Bette
 Bettina
 Betty
 Bev
@@ -458,7 +450,6 @@ Boris
 Brad
 Bradley
 Brady
-Bram
 Brandi
 Brandon
 Brandy
@@ -546,7 +537,6 @@ Cathy
 Catrin
 Catriona
 Cecelia
-Cecie
 Cecil
 Cecilia
 Cecilie
@@ -564,7 +554,6 @@ Charlotte
 Charmaine
 Chas
 Chaz
-Chelle
 Chelsea
 Cheri
 Cherie
@@ -614,7 +603,6 @@ Clarence
 Clark
 Claude
 Claudia
-Claudius
 Claus
 Clay
 Clayton
@@ -1147,7 +1135,6 @@ Gillian
 Gilyana
 Gina
 Ginger
-Ginny
 Giovanni
 Gisbert
 Gisela
@@ -1216,7 +1203,6 @@ Gunther
 Gurli
 Gus
 Guseyn
-Gussy
 Gustav
 Gustavo
 Guy
@@ -1727,7 +1713,6 @@ Lachlan
 Lachy
 Lada
 Laila
-Lainie
 Lana
 Lance
 Lara
@@ -1750,7 +1735,6 @@ Lea
 Leah
 Leanna
 Leanne
-Leba
 Lee
 Leif
 Leigh
@@ -1841,9 +1825,7 @@ Lisbeth
 Lise
 Liselotte
 Lisette
-Lissa
 Lissi
-Lissie
 Lissy
 Liv
 Liya
@@ -1856,7 +1838,6 @@ Lizzy
 Lloyd
 Log
 Logan
-Logy
 Lois
 Lola
 Lolita
@@ -2089,7 +2070,6 @@ Maureen
 Maurice
 Mavis
 Max
-Maxam
 Maxi
 Maxie
 Maxim
@@ -2116,7 +2096,6 @@ Meike
 Meinhard
 Meinolf
 Mel
-Melane
 Melanie
 Melinda
 Melissa
@@ -2310,7 +2289,6 @@ Nicolaj
 Nicolas
 Nicole
 Niels
-Nige
 Nigel
 Nika
 Niki
@@ -2339,8 +2317,6 @@ Noreen
 Norm
 Norma
 Norman
-Nosa
-Nour
 Nurbika
 Nuria
 Nurik
@@ -2367,10 +2343,8 @@ Olivia
 Ollie
 Olly
 Omar
-Orbie
 Orkhan
 Orlando
-Orman
 Ortrud
 Ortwin
 Oscar
@@ -2410,7 +2384,6 @@ Paul
 Paula
 Paulette
 Paulie
-Paulin
 Paulina
 Pauline
 Pauly
@@ -2590,7 +2563,6 @@ Rina
 Rinat
 Rishat
 Rita
-Ritu
 Rizvan
 Rob
 Robbie
@@ -2717,7 +2689,6 @@ Samuel
 Samvel
 Sanal
 Sandeep
-Sander
 Sandi
 Sandra
 Sandro
@@ -2829,7 +2800,6 @@ Sime
 Simon
 Simona
 Simone
-Simonetta
 Sina
 Sine
 Sinead
@@ -2869,7 +2839,6 @@ Stefanie
 Steff
 Steffen
 Steffi
-Stefie
 Stella
 Sten
 Stepan
@@ -2881,7 +2850,6 @@ Stephie
 Steve
 Steven
 Stevie
-Stevo
 Stewart
 Stig
 Stina
@@ -2927,9 +2895,7 @@ Sybille
 Sydney
 Syed
 Sylke
-Sylvester
 Sylvia
-Sylvie
 Syuzanna
 Tabitha
 Tagir
@@ -3166,7 +3132,6 @@ Vinnie
 Viol
 Viola
 Violet
-Violeta
 Violetta
 Virgil
 Virginia
@@ -3180,7 +3145,6 @@ Viv
 Vivian
 Vivien
 Vivienne
-Vivy
 Vladimer
 Vladimir
 Vladislav
@@ -3239,18 +3203,12 @@ Wolfram
 Woody
 Xan
 Xander
-Xandra
-Xandy
 Xaver
-Xavi
 Xavier
 Xe
 Xen
-Xenia
 Xi
-Ximena
 Xin
-Xolo
 Xuan
 Yakov
 Yan
