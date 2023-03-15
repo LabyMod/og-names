@@ -251,6 +251,7 @@ ensure
 entail
 enter
 entertain
+entrust
 envisage
 establish
 evaluate
