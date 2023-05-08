@@ -1044,6 +1044,7 @@ psychology
 psychopath
 public
 pull
+pumper
 pun
 punch
 purchase
@@ -1331,6 +1332,7 @@ suck
 sugar
 suggestion
 suit
+summoner
 supermarket
 support
 surgery
