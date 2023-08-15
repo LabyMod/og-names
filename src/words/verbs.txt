@@ -54,6 +54,7 @@ assure
 attach
 attain
 attend
+attendant
 attract
 attribute
 avoid
