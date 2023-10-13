@@ -18,3 +18,4 @@ wealthy
 yum
 yummy
 aesthetic
+cuplike
