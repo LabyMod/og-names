@@ -399,6 +399,7 @@ divide
 doctor
 document
 dog
+dollarization
 door
 dot
 double
