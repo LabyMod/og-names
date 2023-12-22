@@ -7,6 +7,7 @@ account
 act
 action
 active
+activist
 activity
 actor
 ad
@@ -69,6 +70,7 @@ assistant
 associate
 association
 assumption
+athlete
 atmosphere
 attack
 attempt
@@ -200,6 +202,7 @@ care
 career
 carnage
 carpet
+cartel
 cat
 catch
 category
@@ -301,6 +304,8 @@ cookie
 copy
 corner
 cost
+couch
+counselor
 count
 counter
 country
@@ -320,6 +325,7 @@ cream
 creative
 credit
 crew
+critic
 criticism
 cross
 crumb
@@ -334,6 +340,7 @@ curse
 curve
 customer
 cut
+cutie
 cycle
 dad
 damage
@@ -511,6 +518,7 @@ feel
 feeling
 few
 field
+fiend
 fight
 figure
 file
@@ -522,6 +530,7 @@ finding
 finger
 finish
 fire
+fireman
 fish
 fishing
 fix
@@ -652,6 +661,7 @@ if
 illegal
 image
 imagination
+immigrant
 impact
 implement
 importance
@@ -671,6 +681,7 @@ inflation
 influence
 influx
 information
+ingredient
 initial
 initiative
 injury
@@ -931,6 +942,7 @@ pay
 payment
 peace
 peak
+peg
 pen
 penalty
 pension
@@ -958,6 +970,7 @@ pick
 picture
 pie
 piece
+pile
 pimp
 pin
 pipe
@@ -987,6 +1000,7 @@ pollution
 pool
 pop
 population
+porch
 position
 positive
 possession
@@ -1040,6 +1054,7 @@ property
 proposal
 protection
 psycho
+psychologist
 psychology
 psychopath
 public
@@ -1055,6 +1070,7 @@ put
 quality
 quantity
 quarter
+quarterback
 question
 quiet
 quit
@@ -1128,6 +1144,7 @@ revolution
 reward
 rice
 ride
+rifle
 ring
 rip
 risk
@@ -1161,6 +1178,7 @@ satisfaction
 save
 savings
 scale
+scandal
 scar
 scene
 schedule
@@ -1198,6 +1216,7 @@ setting
 sex
 shake
 shame
+shanty
 shape
 share
 she
@@ -1285,6 +1304,7 @@ square
 stable
 staff
 stage
+stair
 stand
 standard
 staple
@@ -1346,9 +1366,12 @@ swing
 switch
 sword
 sympathy
+symptom
 system
 table
+tablespoon
 tackle
+tactic
 tale
 talk
 tank
@@ -1361,9 +1384,12 @@ tea
 teach
 teacher
 teaching
+teal
 team
 tear
+teaspoon
 technology
+teenager
 telephone
 television
 temperature
@@ -1421,6 +1447,7 @@ treat
 tree
 trick
 trip
+troop
 trouble
 truce
 truck
@@ -1514,6 +1541,7 @@ writer
 writing
 yard
 year
+yell
 yellow
 yesterday
 you
