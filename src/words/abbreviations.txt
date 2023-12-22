@@ -8,6 +8,7 @@ brb
 btw
 bump
 ctr
+dea
 diy
 etc
 faq
@@ -40,6 +41,7 @@ sms
 sos
 stfu
 tbh
+thx
 ttyl
 uhc
 uudi
