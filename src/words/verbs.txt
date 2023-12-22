@@ -121,6 +121,7 @@ complain
 complement
 complete
 comply
+compose
 comprehend
 comprise
 compromise
@@ -174,12 +175,14 @@ defeat
 defend
 define
 deform
+defraud
 delete
 deliver
 demonstrate
 deny
 depart
 depend
+depict
 derive
 descend
 describe
@@ -222,6 +225,7 @@ dominate
 drain
 drift
 drown
+dunk
 dwell
 earn
 edit
@@ -299,12 +303,14 @@ fry
 fuck
 fulfil
 fund
+gaze
 generate
 get
 govern
 grasp
 greet
 grow
+growl
 halt
 happen
 have
@@ -373,6 +379,7 @@ maintain
 manage
 manipulate
 manufacture
+marry
 mature
 maximise
 measure
@@ -387,6 +394,7 @@ murder
 must
 need
 negotiate
+nod
 notify
 obey
 obscure
@@ -407,7 +415,9 @@ overcome
 overlook
 owe
 own
+pant
 participate
+pave
 penetrate
 perceive
 perform
@@ -442,6 +452,7 @@ prove
 provide
 provoke
 publish
+puke
 punish
 pursue
 qualify
@@ -520,7 +531,9 @@ shear
 shed
 should
 shout
+shrug
 shut
+sigh
 sit
 slow
 smash
@@ -568,6 +581,7 @@ sweep
 take
 tend
 terminate
+testify
 thank
 think
 threaten
@@ -578,6 +592,7 @@ tick
 tighten
 tilt
 tolerate
+toss
 transfer
 transform
 translate
@@ -596,6 +611,7 @@ upset
 urge
 vary
 venture
+violate
 vote
 wan
 wander
@@ -609,6 +625,7 @@ weave
 wed
 weep
 weigh
+whisper
 widen
 wipe
 withdraw
