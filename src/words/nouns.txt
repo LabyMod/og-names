@@ -69,6 +69,7 @@ assistant
 associate
 association
 assumption
+astrotheology
 atmosphere
 attack
 attempt
@@ -335,6 +336,7 @@ curve
 customer
 cut
 cycle
+cymatics
 dad
 damage
 dance
@@ -1376,6 +1378,7 @@ text
 thanks
 theme
 theory
+theosophy
 thing
 thought
 throat
