@@ -5649,6 +5649,7 @@ min
 mind
 minds
 mine
+minecraft
 mineral
 minerals
 mines
@@ -5728,6 +5729,7 @@ modular
 module
 modules
 moisture
+mojang
 mold
 moldova
 molecular
