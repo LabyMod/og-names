@@ -1,3 +1,4 @@
+aesthetic
 colorblind
 diplomatic
 eerie
@@ -18,4 +19,3 @@ vivid
 wealthy
 yum
 yummy
-aesthetic
