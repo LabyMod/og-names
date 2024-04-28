@@ -1,6 +1,7 @@
 colorblind
 diplomatic
 eerie
+erect
 grim
 grumpy
 immense
