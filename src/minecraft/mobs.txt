@@ -42,7 +42,7 @@ Pillager
 Polarbear
 Pufferfish
 Rabbit
-Ravenger
+Ravager
 Salmon
 Sheep
 Shulker
