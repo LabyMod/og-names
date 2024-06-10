@@ -142,7 +142,6 @@ adjustments
 admin
 administered
 administration
-administrative
 administrator
 administrators
 admission
