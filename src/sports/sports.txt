@@ -4,6 +4,7 @@ BMX
 Badminton
 Baseball
 Basketball
+BungeeJumping
 Biathlon
 Billiards
 Bobsleigh
