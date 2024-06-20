@@ -1,4 +1,5 @@
 Archery
+Armwrestling
 Athletics
 BMX
 Badminton
