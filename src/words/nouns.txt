@@ -1045,6 +1045,7 @@ psycho
 psychology
 psychopath
 public
+puke
 pull
 pumper
 pun
