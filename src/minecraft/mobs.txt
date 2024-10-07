@@ -28,7 +28,7 @@ Horse
 Husk
 Illusioner
 Irongolem
-Lama
+Llama
 Magmacube
 Mule
 Ocelot
@@ -54,7 +54,7 @@ Spider
 Squid
 Stray
 Strider
-Trurtle
+Turtle
 Vex
 Villager
 Vindicator
