@@ -39,6 +39,7 @@ appoint
 appreciate
 approach
 approve
+arouse
 argue
 arise
 arrange
