@@ -4490,6 +4490,7 @@ infections
 infectious
 infinite
 inflation
+inflationary
 influence
 influenced
 influences
