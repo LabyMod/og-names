@@ -29,18 +29,17 @@ Amy
 Ana
 Andrew
 Andy
-Ane
 Ann
 Anna
 Anne
 Anny
+Anni
 Anthony
 Anton
 Antonio
 Antony
 April
 Arnold
-Art
 Arthur
 Astrid
 Aubrey
@@ -68,6 +67,7 @@ Bill
 Billy
 Blake
 Blanca
+Blaine
 Bob
 Bobby
 Bonita
@@ -88,6 +88,7 @@ Bryn
 Bud
 Buddy
 Buyan
+Cal
 Callum
 Calvin
 Cameron
@@ -119,6 +120,7 @@ Cathrin
 Cathrine
 Cathy
 Celia
+Celi
 Ceri
 Cesar
 Chad
@@ -138,6 +140,8 @@ Christi
 Christian
 Christie
 Christina
+Christof
+Christofer
 Christoph
 Christopher
 Chuck
@@ -174,13 +178,13 @@ Cristina
 Crystal
 Curt
 Curtis
-Dad
 Daisy
 Dale
 Damian
 Damien
 Damon
 Dan
+Dani
 Dana
 Daniel
 Danni
@@ -211,11 +215,11 @@ Denni
 Dennis
 Derek
 Desiree
+Dexter
 Desmond
 Detlef
 Dieter
 Dilara
-Dim
 Dimitri
 Dina
 Dirk
@@ -258,6 +262,7 @@ Elli
 Ellie
 Elliot
 Elliott
+Eli
 Elly
 Elna
 Elnur
@@ -288,6 +293,7 @@ Eve
 Evelyn
 Evi
 Ewa
+Fabi
 Fabian
 Fail
 Faith
@@ -299,6 +305,7 @@ Faye
 Felix
 Fernando
 Finn
+Fynn
 Flora
 Florence
 Florian
@@ -367,6 +374,7 @@ Harvey
 Hasan
 Hassan
 Hayley
+Haley
 Hazel
 Heather
 Hector
@@ -448,6 +456,7 @@ Jessica
 Jessie
 Jesus
 Jill
+Jil
 Jim
 Jimmie
 Jimmy
@@ -491,12 +500,13 @@ Kaj
 Kaja
 Kalsie
 Kamal
+Kamalla
 Kamila
 Kamilla
 Karl
 Kate
 Katharina
-Kathe
+Katherina
 Kathy
 Kati
 Katie
@@ -636,6 +646,7 @@ Mae
 Magda
 Maggie
 Mai
+May
 Maj
 Maja
 Malcolm
@@ -650,7 +661,6 @@ Marco
 Marcus
 Marcy
 Marek
-Marha
 Mari
 Maria
 Marie
@@ -683,7 +693,6 @@ Maximilian
 Maxwell
 May
 Maya
-Mayya
 Megan
 Meghan
 Mehmet
@@ -728,7 +737,9 @@ Mister
 Mitch
 Mitchell
 Mo
+Moe
 Mogens
+Mohamad
 Mohamed
 Mohammad
 Mohammed
@@ -984,6 +995,8 @@ Tobi
 Tobias
 Toby
 Tom
+Tomas
+Tomash
 Tommy
 Toni
 Tonny
