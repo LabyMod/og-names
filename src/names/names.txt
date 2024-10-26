@@ -32,8 +32,8 @@ Andy
 Ann
 Anna
 Anne
-Anny
 Anni
+Anny
 Anthony
 Anton
 Antonio
@@ -65,9 +65,9 @@ Beverly
 Bianca
 Bill
 Billy
+Blaine
 Blake
 Blanca
-Blaine
 Bob
 Bobby
 Bonita
@@ -119,8 +119,8 @@ Cassie
 Cathrin
 Cathrine
 Cathy
-Celia
 Celi
+Celia
 Ceri
 Cesar
 Chad
@@ -184,8 +184,8 @@ Damian
 Damien
 Damon
 Dan
-Dani
 Dana
+Dani
 Daniel
 Danni
 Danny
@@ -215,9 +215,9 @@ Denni
 Dennis
 Derek
 Desiree
-Dexter
 Desmond
 Detlef
+Dexter
 Dieter
 Dilara
 Dimitri
@@ -252,6 +252,7 @@ Edwin
 Elen
 Elena
 Elfi
+Eli
 Elias
 Elina
 Elisa
@@ -262,7 +263,6 @@ Elli
 Ellie
 Elliot
 Elliott
-Eli
 Elly
 Elna
 Elnur
@@ -305,7 +305,6 @@ Faye
 Felix
 Fernando
 Finn
-Fynn
 Flora
 Florence
 Florian
@@ -319,6 +318,7 @@ Fred
 Freddy
 Fredi
 Fritz
+Fynn
 Gabi
 Gabriel
 Gabrielle
@@ -363,6 +363,7 @@ Guido
 Gustav
 Guy
 Gwen
+Haley
 Hanna
 Hannah
 Hardy
@@ -374,7 +375,6 @@ Harvey
 Hasan
 Hassan
 Hayley
-Haley
 Hazel
 Heather
 Hector
@@ -455,8 +455,8 @@ Jesse
 Jessica
 Jessie
 Jesus
-Jill
 Jil
+Jill
 Jim
 Jimmie
 Jimmy
@@ -646,7 +646,6 @@ Mae
 Magda
 Maggie
 Mai
-May
 Maj
 Maja
 Malcolm
