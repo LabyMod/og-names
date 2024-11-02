@@ -7778,6 +7778,7 @@ samples
 sampling
 samsung
 samuel
+samuels
 san
 sand
 sandra
