@@ -4912,6 +4912,7 @@ kitchen
 kits
 kitty
 klein
+kling
 km
 knee
 knew
