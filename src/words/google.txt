@@ -523,6 +523,7 @@ arm
 armed
 armenia
 armor
+armorbar
 arms
 armstrong
 army
