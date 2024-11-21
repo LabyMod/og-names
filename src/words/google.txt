@@ -1377,6 +1377,7 @@ cartridges
 cas
 casa
 case
+casern
 cases
 casey
 cash
