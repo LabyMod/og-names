@@ -1,5 +1,6 @@
 Alabama
 Alaska
+Alberta
 Arizona
 Arkansas
 California
@@ -19,6 +20,7 @@ Kansas
 Kentucky
 Louisiana
 Maine
+Manitoba
 Maryland
 Massachusetts
 MexicoCity
@@ -30,11 +32,15 @@ Montana
 Nebraska
 Nevada
 NewYork
+Nunavut
 Ohio
 Oklahoma
+Ontario
 Oregon
 Pennsylvania
 Rhodeisland
+Quebec
+Saskatchewan
 Sinaloa
 Sonora
 Tabasco
@@ -45,3 +51,4 @@ Vermont
 Virginia
 Washington
 Wisconsin
+Yukon
