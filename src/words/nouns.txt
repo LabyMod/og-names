@@ -568,6 +568,7 @@ gas
 gate
 gather
 gear
+gem
 gift
 girlfriend
 give

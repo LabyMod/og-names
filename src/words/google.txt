@@ -93,6 +93,7 @@ acting
 action
 actions
 activated
+activating
 activation
 active
 actively
@@ -3770,6 +3771,8 @@ gear
 geek
 gel
 gem
+gemmology
+gemology
 gen
 gender
 gene
@@ -4414,6 +4417,7 @@ improvement
 improvements
 improving
 in
+inactivating
 inappropriate
 inbox
 inc
