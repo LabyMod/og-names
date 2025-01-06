@@ -3771,6 +3771,8 @@ gear
 geek
 gel
 gem
+gemmology
+gemology
 gen
 gender
 gene
