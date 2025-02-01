@@ -7852,6 +7852,7 @@ sciences
 scientific
 scientist
 scientists
+scooba
 scoop
 scope
 score
