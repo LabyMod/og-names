@@ -712,6 +712,7 @@ awesome
 awful
 axis
 aye
+ayurveda
 az
 azerbaijan
 ba
