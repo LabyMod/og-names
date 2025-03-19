@@ -133,6 +133,7 @@ Chelsea
 Cherry
 Cheryl
 Chester
+Chikorita
 Chloe
 Chris
 Christa
@@ -435,6 +436,7 @@ Janni
 Jared
 Jasmin
 Jason
+Jauna
 Javier
 Jay
 Jean
@@ -946,6 +948,7 @@ Sharon
 Sharron
 Sheryl
 Simon
+Slakoth
 Sofa
 Sonia
 Sonja
