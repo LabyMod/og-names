@@ -16,6 +16,7 @@ Cricket
 Crossfit
 Curling
 Cycling
+Darts
 Dancing
 Diving
 Dodgeball
@@ -37,6 +38,7 @@ Luge
 Marathon
 Netball
 Padel
+Parkour
 Pelota
 Poker
 Polo
