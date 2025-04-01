@@ -34,6 +34,7 @@ nettles
 okra
 onion
 oregano
+paprika
 parsley
 parsnip
 potato
