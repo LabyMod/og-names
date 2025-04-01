@@ -18,7 +18,6 @@ Creeper
 Dolphin
 Donkey
 Dragon
-DriedGhast
 Drowned
 ElderGuardian
 EnderDragon
