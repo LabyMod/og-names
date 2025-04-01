@@ -27,9 +27,11 @@ Evoker
 Fox
 Frog
 Ghast
+Ghastling
 GlowSquid
 Goat
 Guardian
+HappyGhast
 Herobrine
 Hoglin
 Horse
