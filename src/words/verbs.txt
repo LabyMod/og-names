@@ -319,6 +319,7 @@ ignore
 illustrate
 imagine
 impale
+impersonate
 imply
 import
 impose
