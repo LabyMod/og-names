@@ -4611,6 +4611,7 @@ internal
 international
 internationally
 internet
+internist
 internship
 interpretation
 interpreted
