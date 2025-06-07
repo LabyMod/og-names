@@ -84,3 +84,4 @@ Zombie
 ZombieHorse
 ZombieVillager
 ZombifiedPiglin
+HappyGhast
