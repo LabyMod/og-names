@@ -1523,5 +1523,6 @@ yellow
 yesterday
 you
 youth
+youthquake
 zest
 zone
