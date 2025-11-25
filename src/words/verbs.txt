@@ -39,6 +39,7 @@ appoint
 appreciate
 approach
 approve
+arouse
 argue
 arise
 arrange
@@ -413,6 +414,7 @@ perceive
 perform
 persist
 persuade
+pinned
 plead
 please
 plug

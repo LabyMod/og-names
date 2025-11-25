@@ -102,6 +102,7 @@ Narwhal
 Ocelot
 Octopus
 Opossum
+Orca
 Ostrich
 Otter
 Owl

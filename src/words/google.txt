@@ -142,7 +142,6 @@ adjustments
 admin
 administered
 administration
-administrative
 administrator
 administrators
 admission
@@ -4924,7 +4923,6 @@ knock
 know
 knowing
 knowledge
-knowledgestorm
 known
 knows
 ko
@@ -8605,6 +8603,7 @@ successful
 successfully
 such
 suck
+Sucked
 sucking
 sucks
 sudan
