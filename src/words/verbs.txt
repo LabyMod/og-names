@@ -39,9 +39,9 @@ appoint
 appreciate
 approach
 approve
-arouse
 argue
 arise
+arouse
 arrange
 arrest
 arrive
@@ -311,6 +311,7 @@ happen
 have
 heal
 hear
+help
 hesitate
 hitch
 honour

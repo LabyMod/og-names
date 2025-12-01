@@ -459,6 +459,7 @@ enthusiasm
 entrance
 entry
 environment
+epic
 equal
 equipment
 equivalent
