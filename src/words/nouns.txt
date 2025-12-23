@@ -1261,6 +1261,7 @@ solitude
 solution
 somewhere
 sort
+soroban
 sound
 soup
 source
