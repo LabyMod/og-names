@@ -374,6 +374,7 @@ detail
 development
 device
 devil
+dictaphone
 diet
 difference
 difficulty
