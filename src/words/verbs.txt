@@ -175,6 +175,7 @@ defeat
 defend
 define
 deform
+dilacerate
 delete
 deliver
 demonstrate
