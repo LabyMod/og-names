@@ -168,6 +168,7 @@ brother
 brown
 brush
 bud
+buddha
 budget
 bug
 building
@@ -358,6 +359,7 @@ decision
 deep
 definition
 degree
+deity
 delay
 delivery
 demand
@@ -372,6 +374,8 @@ design
 designer
 desk
 detail
+deus
+deva
 development
 device
 devil
@@ -575,6 +579,7 @@ give
 glad
 glass
 glove
+gnosis
 go
 goal
 god
@@ -912,6 +917,7 @@ pain
 paint
 painting
 pair
+pandit
 panic
 paper
 paradox
@@ -1152,6 +1158,7 @@ rub
 ruin
 rule
 run
+sacrament
 sad
 safe
 safety
