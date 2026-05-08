@@ -8842,6 +8842,7 @@ televisions
 tell
 telling
 tells
+telly
 temp
 temperature
 temperatures
