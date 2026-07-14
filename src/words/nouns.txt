@@ -616,6 +616,7 @@ head
 health
 hearing
 heart
+heartbeat
 heat
 heavy
 height
