@@ -39,6 +39,7 @@ nvm
 omw
 pov
 ppl
+ptBR
 pvp
 qna
 rofl
