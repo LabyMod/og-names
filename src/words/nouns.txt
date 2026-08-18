@@ -1372,6 +1372,7 @@ tear
 technology
 telephone
 television
+telly
 temperature
 temporary
 tennis
