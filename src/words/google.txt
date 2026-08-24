@@ -8203,6 +8203,7 @@ slightly
 slim
 slip
 slope
+sloppily
 slot
 slots
 slovak
