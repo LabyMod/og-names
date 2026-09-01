@@ -23,6 +23,7 @@ advise
 afford
 agree
 aid
+ail
 aim
 alert
 alleviate
@@ -39,9 +40,9 @@ appoint
 appreciate
 approach
 approve
-arouse
 argue
 arise
+arouse
 arrange
 arrest
 arrive
