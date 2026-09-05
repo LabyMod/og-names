@@ -4931,6 +4931,7 @@ kodak
 kong
 korea
 korean
+Kokoro
 kruger
 ks
 kurt
@@ -9944,6 +9945,7 @@ your
 yours
 yourself
 youth
+Yongzin
 yr
 yrs
 yu
