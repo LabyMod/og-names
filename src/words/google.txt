@@ -9696,6 +9696,7 @@ web
 webcam
 webcams
 webcast
+weblate
 weblog
 weblogs
 webmaster
