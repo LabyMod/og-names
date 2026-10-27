@@ -1235,6 +1235,7 @@ sing
 singer
 single
 sink
+sinker
 sister
 site
 situation
