@@ -1346,6 +1346,7 @@ surprise
 surround
 survey
 suspect
+swarf
 swim
 swimming
 swing
