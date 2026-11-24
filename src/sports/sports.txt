@@ -1,3 +1,4 @@
+Aquathlon
 Archery
 Athletics
 BMX
@@ -17,14 +18,17 @@ Crossfit
 Curling
 Cycling
 Dancing
+Decathlon
 Diving
 Dodgeball
+Duathlon
 Fencing
 Fishing
 Frisbee
 Golf
 Gymnastics
 Handball
+Heptathlon
 Hockey
 Judo
 Jujutsu
@@ -38,6 +42,7 @@ Marathon
 Netball
 Padel
 Pelota
+Pentathlon
 Poker
 Polo
 Rowing
